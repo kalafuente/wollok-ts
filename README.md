@@ -27,7 +27,6 @@ You might also want to copy the following configurations to your user settings (
 
 ```json
   "window.menuBarVisibility": "default",
-  "workbench.activityBar.visible": false,
   "workbench.startupEditor": "none",
   "explorer.openEditors.visible": 0,
   "files.exclude": {
